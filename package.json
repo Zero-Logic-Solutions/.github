@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "codeowners": "^5.1.1"
+  }
+}
