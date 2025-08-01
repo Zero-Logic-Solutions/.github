@@ -1,6 +1,6 @@
 <p align="center">
   <a href="[https://your-startup.com]">
-    <img src="[https://github.com/Zero-Logic-Solutions/.github/blob/main/logo.png]" alt="[Zero Logic Solutions] Logo" width="200">
+    <img src="https://github.com/Zero-Logic-Solutions/.github/blob/main/logo.png" alt="[Zero Logic Solutions] Logo" width="200">
   </a>
 </p>
 
