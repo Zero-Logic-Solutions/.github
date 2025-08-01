@@ -1,6 +1,6 @@
 <p align="center">
   <a href="[https://your-startup.com]">
-    <img src="[https://avatars.githubusercontent.com/u/193404773?s=400&u=6c4cfb4c887936d8e13b3de603bcaf0304f94f53&v=4]" alt="[Your Startup Name] Logo" width="200">
+    <img src="[https://github.com/Zero-Logic-Solutions/.github/blob/main/logo.png]" alt="[Zero Logic Solutions] Logo" width="200">
   </a>
 </p>
 
@@ -13,32 +13,6 @@
 </p>
 
 ---
-<!-- 
-## 🚀 Quick Access Dashboard
-
-<!-- This table is the most important part for your existing team. Make it easy to find daily-use links. -->
-| Resource | Link | Description |
-|---|---|---|
-| 📚 **Tech Docs & Wiki** | [docs.your-startup.com]([https://your-startup.notion.site/Engineering-Wiki]) | Our engineering handbook, architecture docs, and runbooks. |
-| 🎯 **Project Board** | [Linear / Jira / Trello]([https://linear.app/your-startup]) | Our source of truth for tasks, sprints, and roadmap. |
-| 💬 **Team Chat** | [#engineering on Slack]([https://your-startup.slack.com/archives/C123ABC456]) | Where we collaborate and share updates. |
-| 📈 **CI/CD Pipeline** | [GitHub Actions]([https://github.com/orgs/your-org-name/actions]) | View build, test, and deployment statuses. |
-| 🌐 **Staging Environment** | [staging.your-startup.com]([https://staging.your-startup.com]) | Our pre-production environment for testing. |
-
----
-
-## 🗺️ Codebase Map
-
-This is a high-level overview of our most important repositories.
-
-| Repository | Description | Primary Language |
-|---|---|---|
-| 💻 **[webapp]([https://github.com/your-org-name/webapp])** | The main customer-facing web application. | `TypeScript` |
-| ⚙️ **[api-server]([https://github.com/your-org-name/api-server])** | The core backend service that powers everything. | `Go` / `Python` |
-| 🏗️ **[infrastructure]([https://github.com/your-org-name/infrastructure])** | Our infrastructure-as-code using Terraform and Ansible. | `HCL` |
-| 🎨 **[design-system]([https://github.com/your-org-name/design-system])** | Shared UI components and design tokens. | `React` |
-
---- -->
 
 ## 🌱 How We Work
 
