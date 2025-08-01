@@ -48,6 +48,8 @@ We believe in shipping fast with confidence and production grade apps. Our entir
   <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"></a>
   <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=for-the-badge&logo=huggingface&logoColor=yellow" alt="HuggingFace"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sentry-white.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2VudHJ5PC90aXRsZT48cGF0aCBkPSJNMTMuOTEgMi41MDVjLS44NzMtMS40NDgtMi45NzItMS40NDgtMy44NDQgMEw2LjkwNCA3LjkyYTE1LjQ3OCAxNS40NzggMCAwIDEgOC41MyAxMi44MTFoLTIuMjIxQTEzLjMwMSAxMy4zMDEgMCAwIDAgNS43ODQgOS44MTRsLTIuOTI2IDUuMDZhNy42NSA3LjY1IDAgMCAxIDQuNDM1IDUuODQ4SDIuMTk0YS4zNjUuMzY1IDAgMCAxLS4yOTgtLjUzNGwxLjQxMy0yLjQwMmE1LjE2IDUuMTYgMCAwIDAtMS42MTQtLjkxM0wuMjk2IDE5LjI3NWEyLjE4MiAyLjE4MiAwIDAgMCAuODEyIDIuOTk5IDIuMjQgMi4yNCAwIDAgMCAxLjA4Ni4yODhoNi45ODNhOS4zMjIgOS4zMjIgMCAwIDAtMy44NDUtOC4zMThsMS4xMS0xLjkyMmExMS40NyAxMS40NyAwIDAgMSA0Ljk1IDEwLjI0aDUuOTE1YTE3LjI0MiAxNy4yNDIgMCAwIDAtNy44ODUtMTUuMjhsMi4yNDQtMy44NDVhLjM3LjM3IDAgMCAxIC41MDQtLjEzYy4yNTUuMTQgOS43NSAxNi43MDggOS45MjggMTYuOWEuMzY1LjM2NSAwIDAgMS0uMzI3LjU0M2gtMi4yODdjLjAyOS42MTIuMDI5IDEuMjIzIDAgMS44MzFoMi4yOTdhMi4yMDYgMi4yMDYgMCAwIDAgMS45MjItMy4zMXoiLz48L3N2Zz4=&logoColor=black" alt="HuggingFace"></a>
+
 </p>
 
 ---
