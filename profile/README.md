@@ -105,11 +105,16 @@ We use a modern, scalable technology stack to build our products. Here’s a loo
   <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 </p>
 
-### Productivity
+### Productivity & AI Tools
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" alt="Clickup"></a>
+  <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft_OneNote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white" alt="Onenote"></a>
+  <a href="#"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="Chat GPT"></a>
+  <a href="#"><img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini"></a>
 </p>
+
 ---
 
 ## ✨ Join Us!
