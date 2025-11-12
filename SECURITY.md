@@ -12,7 +12,7 @@ Instead, we ask that you report any suspected vulnerabilities privately to our t
 
 Please send a detailed email to:
 
-**test@gmail.com**
+**zero.logic.solutions@gmail.com**
 
 ### What to Include in Your Report
 
@@ -32,5 +32,6 @@ When you report a vulnerability to us, we commit to the following:
 -   We will provide you with a point of contact and keep you updated on our progress as we investigate.
 -   We will work to resolve the issue as quickly as possible.
 -   We will publicly credit you for your discovery once the vulnerability is resolved, unless you prefer to remain anonymous.
+
 
 Thank you for helping keep Zero Logic Solutions and our apps and users safe.
